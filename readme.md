@@ -12,11 +12,16 @@ Wanted to create a portable application that enables users to type in Sinhala wi
 ## Installation
 This is created using java so jdk 1.6 or above is needed
 You can import this in to Netbeans and build using that.
-Or just use the prebuild version in dist folder.
+Or just use the prebuild version in `dist` folder.
 
+## How to run 
 
-##Known issues
-Some of the words may not correctly show in some computers.
+- Download the dist folder 
+- Run using the command `java -jar .\SinglishTranslater.jar`
+- if the fonts are not showing please install the font file in the system
+
+## Known issues
+- Some of the words may not correctly show in some computers.
 
 
 This was created as purely for educational/research purposes only.
